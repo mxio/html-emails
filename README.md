@@ -1,4 +1,4 @@
-# html-emails
+# HTML Emails
 These are non-responsive HTML emails I built. The first one was done following a Tutsplus tutorial. The others are coded from images of email templates. 
 
 ###Tutsplus Tutorial  
