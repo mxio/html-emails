@@ -1,5 +1,5 @@
 # HTML Emails
-These are non-responsive HTML emails I built. The first one was done following a Tutsplus tutorial. The others are coded from images of email templates. 
+These are non-responsive HTML emails I built. The first one was done following a Tutsplus tutorial. The others are recreated from email examples. 
 
 ###Tutsplus Tutorial  
 Email Version  
@@ -8,10 +8,9 @@ https://mxio.github.io/html-emails/tutsplus/tuts.html
 Code  
 https://github.com/mxio/html-emails/blob/master/tutsplus/tuts.html
 
-###Sample 1
+###Flume
+Email Version
+https://mxio.github.io/html-emails/flume/flume.html
 
-
-###Sample 2
-
-
-###Sample 3
+Code
+https://github.com/mxio/html-emails/blob/master/flume/flume.html
