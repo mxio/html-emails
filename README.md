@@ -1,5 +1,5 @@
 # HTML Emails
-These are non-responsive HTML emails I built. The first one was done following a Tutsplus tutorial. The others are recreated from email examples. 
+These are non-responsive HTML emails I built. The Tutsplus ones were done following Tutsplus tutorials. The others are recreated from email examples. 
 
 ###Tutsplus Tutorial  
 Email Version  
